@@ -1,2 +1,3 @@
-# tictactoe
-Simple tic tac toe game
+# TicTacToe
+Simple in-terminal tictactoe game.
+Will be adding a GUI next.
